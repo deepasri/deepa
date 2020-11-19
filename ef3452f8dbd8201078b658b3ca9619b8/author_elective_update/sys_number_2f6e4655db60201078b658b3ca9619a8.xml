@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_548657_hello_wor_menu">x_548657_hello_wor_menu</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>NA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:26:50</sys_created_on>
+        <sys_id>2f6e4655db60201078b658b3ca9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NA</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_update_name>sys_number_2f6e4655db60201078b658b3ca9619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:26:50</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</application>
+        <file_path/>
+        <instance_id>1d241ce3dbd39f048264f70fbf961931</instance_id>
+        <instance_name>dev66048</instance_name>
+        <name>sys_number_2f6e4655db60201078b658b3ca9619a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_548657_hello_wor_menu">x_548657_hello_wor_menu</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>NA</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 07:26:50</sys_created_on><sys_id>2f6e4655db60201078b658b3ca9619a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NA</sys_name><sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package><sys_policy/><sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope><sys_update_name>sys_number_2f6e4655db60201078b658b3ca9619a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 07:26:50</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1540802420</payload_hash>
+        <record_name>NA</record_name>
+        <reverted_from/>
+        <source>9e34e87adb10201078b658b3ca96196f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:26:51</sys_created_on>
+        <sys_id>ab6e4655db60201078b658b3ca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d5195e8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:26:51</sys_updated_on>
+        <type>Number</type>
+        <update_guid>e36e4655e96020105e414d38543eb8af</update_guid>
+        <update_guid_history>e36e4655e96020105e414d38543eb8af:1540802420</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:32:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>42ac28a292604356a6ce651bbfaf82e4</sys_id>
+        <sys_metadata>2f6e4655db60201078b658b3ca9619a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NA</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_parent display_value="">072ece15db60201078b658b3ca96190a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_scope_delete display_value="">622dad97b9ad42eeadc7947cd53bdba4</sys_scope_delete>
+        <sys_update_name>sys_number_2f6e4655db60201078b658b3ca9619a8</sys_update_name>
+        <sys_update_version display_value="sys_number_2f6e4655db60201078b658b3ca9619a8">ab6e4655db60201078b658b3ca9619af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:32:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

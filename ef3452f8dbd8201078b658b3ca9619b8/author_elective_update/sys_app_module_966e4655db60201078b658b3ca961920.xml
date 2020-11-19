@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="menu">5e6e4655db60201078b658b3ca96191c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>menus</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_548657_hello_wor_menu</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_548657_hello_wor.menu_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:26:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>966e4655db60201078b658b3ca961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>menus</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_update_name>sys_app_module_966e4655db60201078b658b3ca961920</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:26:46</sys_updated_on>
+        <timeline_page/>
+        <title>menus</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</application>
+        <file_path/>
+        <instance_id>1d241ce3dbd39f048264f70fbf961931</instance_id>
+        <instance_name>dev66048</instance_name>
+        <name>sys_app_module_966e4655db60201078b658b3ca961920</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="menu">5e6e4655db60201078b658b3ca96191c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>menus</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_548657_hello_wor_menu</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_548657_hello_wor.menu_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 07:26:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>966e4655db60201078b658b3ca961920</sys_id><sys_mod_count>0</sys_mod_count><sys_name>menus</sys_name><sys_overrides/><sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package><sys_policy/><sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope><sys_update_name>sys_app_module_966e4655db60201078b658b3ca961920</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 07:26:46</sys_updated_on><timeline_page/><title>menus</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1776610362</payload_hash>
+        <record_name>menus</record_name>
+        <reverted_from/>
+        <source>9e34e87adb10201078b658b3ca96196f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:26:46</sys_created_on>
+        <sys_id>9a6e4655db60201078b658b3ca961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d5194b300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:26:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d26e4655fc602010fdd568bbb74ad523</update_guid>
+        <update_guid_history>d26e4655fc602010fdd568bbb74ad523:-1776610362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="menus">cebf0695db60201078b658b3ca9619fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:32:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1fc48e221c5e490783f82c2b5261f129</sys_id>
+        <sys_metadata>966e4655db60201078b658b3ca961920</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>menus</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_scope_delete display_value="">622dad97b9ad42eeadc7947cd53bdba4</sys_scope_delete>
+        <sys_update_name>sys_app_module_966e4655db60201078b658b3ca961920</sys_update_name>
+        <sys_update_version display_value="sys_app_module_966e4655db60201078b658b3ca961920">9a6e4655db60201078b658b3ca961923</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:32:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

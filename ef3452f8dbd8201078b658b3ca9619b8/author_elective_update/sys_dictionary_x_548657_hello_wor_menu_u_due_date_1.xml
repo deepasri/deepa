@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_due_date_1" table="x_548657_hello_wor_menu">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>End date</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_due_date_1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">due_date</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>40</max_length>
+        <name>x_548657_hello_wor_menu</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:30:41</sys_created_on>
+        <sys_id>f74f0295db60201078b658b3ca961941</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>End date</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_update_name>sys_dictionary_x_548657_hello_wor_menu_u_due_date_1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:30:42</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</application>
+        <file_path/>
+        <instance_id>1d241ce3dbd39f048264f70fbf961931</instance_id>
+        <instance_name>dev66048</instance_name>
+        <name>sys_dictionary_x_548657_hello_wor_menu_u_due_date_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="DELETE" element="u_due_date_1" table="x_548657_hello_wor_menu"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>End date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_due_date_1</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">due_date</internal_type><mandatory>true</mandatory><max_length>40</max_length><name>x_548657_hello_wor_menu</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-17 07:30:41</sys_created_on><sys_id>f74f0295db60201078b658b3ca961941</sys_id><sys_mod_count>1</sys_mod_count><sys_name>End date</sys_name><sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package><sys_policy/><sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope><sys_update_name>sys_dictionary_x_548657_hello_wor_menu_u_due_date_1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-17 07:30:42</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-461333010</payload_hash>
+        <record_name>Task.u_due_date_1</record_name>
+        <reverted_from/>
+        <source>9e34e87adb10201078b658b3ca96196f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:32:30</sys_created_on>
+        <sys_id>aabf4695db60201078b658b3ca961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d51e8d170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:32:30</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e2bf4695fb602010f6a12d8b42dfd650</update_guid>
+        <update_guid_history>e2bf4695fb602010f6a12d8b42dfd650:-461333010,485f0295926020108ce40b2ff92d0f7e:-1977639646,805f029563602010d47b22f7825a0e65:973568323</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 07:32:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>14bd754fa6f74f3688769ef03f8e2964</sys_id>
+        <sys_metadata>f74f0295db60201078b658b3ca961941</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>End date</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_parent display_value="">072ece15db60201078b658b3ca96190a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_scope_delete display_value="">622dad97b9ad42eeadc7947cd53bdba4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_548657_hello_wor_menu_u_due_date_1</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_548657_hello_wor_menu_u_due_date_1">aabf4695db60201078b658b3ca961950</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 07:32:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Role for users of the employee special day application</description>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_548657_hello_wor.Occasios_user</name>
+        <requires_subscription>0</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Occasios_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-10 08:49:25</sys_created_on>
+        <sys_id>0e5cd24bdb50201078b658b3ca961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_548657_hello_wor.Occasios_user</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_update_name>sys_user_role_0e5cd24bdb50201078b658b3ca961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-10 08:49:25</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</application>
+        <file_path/>
+        <instance_id>1d241ce3dbd39f048264f70fbf961931</instance_id>
+        <instance_name>dev66048</instance_name>
+        <name>sys_user_role_0e5cd24bdb50201078b658b3ca961935</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Role for users of the employee special day application</description><elevated_privilege>true</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_548657_hello_wor.Occasios_user</name><requires_subscription>0</requires_subscription><scoped_admin>false</scoped_admin><suffix>Occasios_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-10 08:49:25</sys_created_on><sys_id>0e5cd24bdb50201078b658b3ca961935</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_548657_hello_wor.Occasios_user</sys_name><sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package><sys_policy/><sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope><sys_update_name>sys_user_role_0e5cd24bdb50201078b658b3ca961935</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-10 08:49:25</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>700879976</payload_hash>
+        <record_name>x_548657_hello_wor.Occasios_user</record_name>
+        <reverted_from/>
+        <source>9e34e87adb10201078b658b3ca96196f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-10 08:49:25</sys_created_on>
+        <sys_id>fc3ed68bdb50201078b658b3ca96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175b15875d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-10 08:49:25</sys_updated_on>
+        <type>Role</type>
+        <update_guid>f43ed68ba25020100d0ad421db576c9b</update_guid>
+        <update_guid_history>f43ed68ba25020100d0ad421db576c9b:700879976</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_548657_hello_wor.Occasios_user">3c82065ddb20201078b658b3ca961975</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 06:34:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>1102b4f644ae4dae8e96cca9c3e01ce1</sys_id>
+        <sys_metadata>0e5cd24bdb50201078b658b3ca961935</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_548657_hello_wor.Occasios_user</sys_name>
+        <sys_package display_value="Hello World" source="x_548657_hello_wor">ef3452f8dbd8201078b658b3ca9619b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">ef3452f8dbd8201078b658b3ca9619b8</sys_scope>
+        <sys_scope_delete display_value="">622dad97b9ad42eeadc7947cd53bdba4</sys_scope_delete>
+        <sys_update_name>sys_user_role_0e5cd24bdb50201078b658b3ca961935</sys_update_name>
+        <sys_update_version display_value="sys_user_role_0e5cd24bdb50201078b658b3ca961935">fc3ed68bdb50201078b658b3ca96199b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 06:34:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
